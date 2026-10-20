@@ -1,6 +1,6 @@
 /* Фиторос — location block */
 .location-section{padding:clamp(68px,8vw,125px) 0 clamp(80px,9vw,135px);background:#eeeee5;position:relative;overflow:hidden}
-.location-section:before{content:"";position:absolute;width:520px;height:520px;border:1px solid #d6dacb;border-radius:50%;top:-310px;right:-160px;pointer-events:none}
+.location-section:before{display:none}
 .location-heading{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(250px,.7fr);gap:30px;align-items:end;margin-bottom:38px}
 .location-heading .eyebrow{color:#788c69;font-size:11px;letter-spacing:.18em;margin-bottom:20px}
 .location-heading h2{font-size:clamp(45px,6.1vw,87px);font-weight:400;letter-spacing:-.05em;line-height:1.04;color:#203c30;margin:0 0 20px}
