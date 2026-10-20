@@ -1,0 +1,7 @@
+Изображение: images/botanical-hero.webp
+Источник: встроенный инструмент image_gen, новая генерация.
+Назначение: атмосферная ботаническая фотография для главной страницы.
+Не изображает реальное производство и не подтверждает состав продуктов.
+
+Промпт:
+Use case: photorealistic-natural. Asset type: premium botanical skincare website hero editorial photograph, portrait 4:5 composition. Close-up still life of fresh chamomile flowers with delicate white petals and yellow centers, a few calendula orange blossoms, fresh green medicinal leaves, a shallow amber glass bowl containing golden botanical oil on warm cream limestone pedestal, tactile handmade ivory paper background with soft olive leaf shadows. Sophisticated editorial beauty photography, natural afternoon sunlight from upper left, rich forest green foliage, warm amber highlights, subtle film grain, excellent real botanical detail, generous negative space at upper third. Image should feel grounded, exquisite, authentic, restrained, no lab, no factory, no people. No bottles or branded packaging, no typography, no lettering, no logo, no watermark.
